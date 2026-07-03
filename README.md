@@ -99,7 +99,7 @@ CREATE TABLE attendance (
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/piyushbyte01/AI-Face-Recognition-Attendance-System.git>
 ```
 
 ### Move to Project Directory
@@ -202,4 +202,4 @@ python attendance.py
 
 B.Tech CSE(AI & ML)
 
-AI Face Recognition Attendance Management System using Python, OpenCV, Tkinter, and MySQL.
+AI Face Recognition Attendance System using Python, OpenCV, Tkinter, and MySQL.
